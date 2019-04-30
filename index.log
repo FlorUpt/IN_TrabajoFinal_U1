@@ -1,12 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.18)  30 APR 2019 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2019.4.1)  29 APR 2019 17:50
 entering extended mode
 **./index.tex
 (index.tex
-LaTeX2e <2018-12-01>
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -19,36 +20,42 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
 y"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
+Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2019/04/01 3.28 The Babel package
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
-"
-File: switch.def 2019/04/01 3.28 Babel switching mechanism
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.d
+ef"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cf
+g"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\span
-ish.ldf"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\sp
+anish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2019/04/01 3.28 Babel common definitions
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.de
+f"
+File: babel.def 2018/06/05 3.22 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
-ef")
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel
+.def")
 \bbl@dirlevel=\count89
 )
 \es@quottoks=\toks16
@@ -58,47 +65,47 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
-Package: amsmath 2018/12/01 v2.17b AMS math features
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
+sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
+sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
+ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen104
 ))
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
+ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
+ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count91
-LaTeX Info: Redefining \frac on input line 223.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count92
 \leftroot@=\count93
-LaTeX Info: Redefining \overline on input line 385.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count94
 \DOTSCASE@=\count95
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
 \big@size=\dimen106
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count96
 \c@MaxMatrixCols=\count97
 \dotsspace@=\muskip10
@@ -119,57 +126,60 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfont
+s.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
-ty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb
+.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
+sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks22
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+s.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
+y"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
+phics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
+tex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.st
+y"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip46
 \bibsep=\skip47
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count103
-) ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lineno\lineno.st
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lineno\lineno.st
 y"
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count104
@@ -185,11 +195,12 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \quotelinenumbersep=\dimen117
 \bframerule=\dimen118
 \bframesep=\dimen119
-\bframebox=\box29
+\bframebox=\box28
 LaTeX Info: Redefining \\ on input line 3056.
-) ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\ragged2e.sty"
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
- ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip48
@@ -207,11 +218,11 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip60
 \JustifyingParindent=\skip61
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
-"
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.s
+ty"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \c@tracingmulticols=\count111
-\mult@box=\box30
+\mult@box=\box29
 \multicol@leftmargin=\dimen120
 \c@unbalance=\count112
 \c@collectmore=\count113
@@ -224,13 +235,14 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \postmulticols=\dimen124
 \multicolsep=\skip62
 \multicolbaselineskip=\skip63
-\partial@page=\box31
-\last@line=\box32
+\partial@page=\box30
+\last@line=\box31
 \maxbalancingoverflow=\dimen125
-\mult@rightbox=\box33
-\mult@grightbox=\box34
-\mult@gfirstbox=\box35
-\mult@firstbox=\box36
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
 \@tempa=\box37
 \@tempa=\box38
 \@tempa=\box39
@@ -247,36 +259,35 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box50
 \@tempa=\box51
 \@tempa=\box52
-\@tempa=\box53
 \c@columnbadness=\count117
 \c@finalcolumnbadness=\count118
 \last@try=\dimen126
 \multicolovershoot=\dimen127
 \multicolundershoot=\dimen128
-\mult@nat@firstbox=\box54
-\colbreak@box=\box55
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
 \mc@col@check@num=\count119
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
-y"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.
+sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks24
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
-ty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf
+.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvte
+x.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
+x.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count120
@@ -292,10 +303,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen136
 \Gm@dimlist=\toks25
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg"))
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
-sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.cfg"))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhd
+r.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip64
@@ -307,10 +318,12 @@ s
 \f@nch@O@erf=\skip70
 \f@nch@O@olf=\skip71
 \f@nch@O@orf=\skip72
-) ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -336,12 +349,12 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp
+-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count123
 \scratchdimen=\dimen137
-\scratchbox=\box56
+\scratchbox=\box55
 \nofMPsegments=\count124
 \nofMParguments=\count125
 \everyMPshowfont=\toks26
@@ -351,46 +364,51 @@ df.mkii"
 \makeMPintoPDFobject=\count128
 \everyMPtoPDFconversion=\toks27
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
-base.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
+f-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
-rr.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
+rerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
-y"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.
+sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
-ekeys.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdef
+inekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
-.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
+ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
+ns.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
-ys.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvset
+keys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
-s.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexc
+mds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-x.sty"
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflua
+tex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
-mds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -460,30 +478,241 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
 [1
 
-{C:/Users/luis_/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes/
-logo.png>] (index.aux
+{C:/Users/DEPIS01/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
+s/logo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+<./Imagenes/img01.png, id=20, 727.21687pt x 453.94594pt>
+File: ./Imagenes/img01.png Graphic file (type png)
+<use ./Imagenes/img01.png>
+Package pdftex.def Info: ./Imagenes/img01.png  used on input line 207.
+(pdftex.def)             Requested size: 218.16673pt x 136.18483pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
+
+ []
+
+<./Imagenes/img02.png, id=21, 885.3075pt x 563.85657pt>
+File: ./Imagenes/img02.png Graphic file (type png)
+<use ./Imagenes/img02.png>
+Package pdftex.def Info: ./Imagenes/img02.png  used on input line 238.
+(pdftex.def)             Requested size: 265.5943pt x 169.15826pt.
+
+Overfull \hbox (39.9696pt too wide) in paragraph at lines 238--239
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<./Imagenes/img03.png, id=22, 280.79906pt x 359.09157pt>
+File: ./Imagenes/img03.png Graphic file (type png)
+<use ./Imagenes/img03.png>
+Package pdftex.def Info: ./Imagenes/img03.png  used on input line 258.
+(pdftex.def)             Requested size: 84.24036pt x 107.72829pt.
+[4 <./Imagenes/img01.png> <./Imagenes/img02.png>]
+<./Imagenes/img04.png, id=26, 187.45032pt x 123.46124pt>
+File: ./Imagenes/img04.png Graphic file (type png)
+<use ./Imagenes/img04.png>
+Package pdftex.def Info: ./Imagenes/img04.png  used on input line 270.
+(pdftex.def)             Requested size: 103.09798pt x 67.90387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+<./Imagenes/img05.png, id=27, 186.6975pt x 263.48438pt>
+File: ./Imagenes/img05.png Graphic file (type png)
+<use ./Imagenes/img05.png>
+Package pdftex.def Info: ./Imagenes/img05.png  used on input line 286.
+(pdftex.def)             Requested size: 102.68393pt x 144.91684pt.
+<./Imagenes/img06.png, id=28, 197.23688pt x 167.12437pt>
+File: ./Imagenes/img06.png Graphic file (type png)
+<use ./Imagenes/img06.png>
+Package pdftex.def Info: ./Imagenes/img06.png  used on input line 298.
+(pdftex.def)             Requested size: 108.4806pt x 91.91867pt.
+<./Imagenes/img07.png, id=29, 258.9675pt x 274.02374pt>
+File: ./Imagenes/img07.png Graphic file (type png)
+<use ./Imagenes/img07.png>
+Package pdftex.def Info: ./Imagenes/img07.png  used on input line 306.
+(pdftex.def)             Requested size: 142.43254pt x 150.71352pt.
+<./Imagenes/img08.png, id=30, 193.47281pt x 204.765pt>
+File: ./Imagenes/img08.png Graphic file (type png)
+<use ./Imagenes/img08.png>
+Package pdftex.def Info: ./Imagenes/img08.png  used on input line 314.
+(pdftex.def)             Requested size: 106.41037pt x 112.62108pt.
+<./Imagenes/img09.png, id=31, 267.24844pt x 280.04625pt>
+File: ./Imagenes/img09.png Graphic file (type png)
+<use ./Imagenes/img09.png>
+Package pdftex.def Info: ./Imagenes/img09.png  used on input line 322.
+(pdftex.def)             Requested size: 146.98709pt x 154.0259pt.
+[5 <./Imagenes/img03.png> <./Imagenes/img04.png> <./Imagenes/img05.png> <./Imag
+enes/img06.png> <./Imagenes/img07.png> <./Imagenes/img08.png>]
+<./Imagenes/img10.png, id=35, 248.42813pt x 270.25969pt>
+File: ./Imagenes/img10.png Graphic file (type png)
+<use ./Imagenes/img10.png>
+Package pdftex.def Info: ./Imagenes/img10.png  used on input line 334.
+(pdftex.def)             Requested size: 136.63588pt x 148.64328pt.
+<./Imagenes/img11.png, id=36, 135.50626pt x 292.09125pt>
+File: ./Imagenes/img11.png Graphic file (type png)
+<use ./Imagenes/img11.png>
+Package pdftex.def Info: ./Imagenes/img11.png  used on input line 348.
+(pdftex.def)             Requested size: 74.52866pt x 160.65067pt.
+<./Imagenes/img12.png, id=37, 506.6428pt x 159.59625pt>
+File: ./Imagenes/img12.png Graphic file (type png)
+<use ./Imagenes/img12.png>
+Package pdftex.def Info: ./Imagenes/img12.png  used on input line 362.
+(pdftex.def)             Requested size: 227.98715pt x 71.81763pt.
+
+Overfull \hbox (15.14026pt too wide) in paragraph at lines 362--363
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+<./Imagenes/img13.png, id=38, 635.37375pt x 373.395pt>
+File: ./Imagenes/img13.png Graphic file (type png)
+<use ./Imagenes/img13.png>
+Package pdftex.def Info: ./Imagenes/img13.png  used on input line 372.
+(pdftex.def)             Requested size: 241.44453pt x 141.89157pt.
+
+Overfull \hbox (28.59764pt too wide) in paragraph at lines 372--373
+ [] 
+ []
+
+(index.bbl) [6 <./Imagenes/img09.png> <./Imagenes/img10.png> <./Imagenes/img11.
+png> <./Imagenes/img12.png> <./Imagenes/img13.png>] (index.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 4759 strings out of 492945
- 66285 string characters out of 3126252
- 163138 words of memory out of 3000000
- 8579 multiletter control sequences out of 15000+200000
+ 4817 strings out of 492973
+ 67995 string characters out of 3125807
+ 164756 words of memory out of 3000000
+ 8594 multiletter control sequences out of 15000+200000
  6522 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,43p,515b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb><C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/luis_/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/luis_/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on index.pdf (1 page, 166499 bytes).
+ 41i,5n,43p,558b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Users/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DEPIS01/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/DEPIS01/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DEPIS
+01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
+:/Users/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti10.pfb>
+Output written on index.pdf (6 pages, 1192240 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
